@@ -1,3 +1,5 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://merbaboo.com/public/uploads/img/blog/Akankah-Web-Dev-akan-punah.jpg))](https://rishavchanda.io)
+
 # 💫 About Me:
 As a graduate of Software Engineering major and with experience as a Research and Development Assistant, I have a strong foundation in programming and software development.
 
