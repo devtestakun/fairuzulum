@@ -14,4 +14,3 @@ I'm Fairuz Ulum, a passionate software developer with a strong interest in web d
 ---
 [![](https://visitcount.itsvg.in/api?id=fairuzulum&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
